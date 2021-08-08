@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RandyVG003
 - 👀 I’m interested in ... Game development
-- 🌱 I’m currently learning ... How anything and everything works!
-- 💞️ I’m looking to collaborate on ... nothing at the moment but will be planning things in the future so stay tuned!
+- 🌱 I’m currently learning ... Whatever I can to help further my knowledge!
+- 💞️ I’m looking to collaborate on ... nothing at the moment.
 - 📫 How to reach me ... randyjvallegearhart@gmail.com
 
 <!---
